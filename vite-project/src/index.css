@@ -1,0 +1,49 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.banner-css{
+  margin-bottom: 30px;
+  object-fit:cover;
+  
+}
+
+.oscuro{
+  filter: brightness(60%)
+
+}
+
+.ejemplo{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: aliceblue;
+  
+}
+
+
+.btn-primary{
+margin-right: 50px;
+}
+
+.card{
+  display: flex;
+  padding: 1rem 2rem 3rem 2rem;
+  height: 600px;
+  
+  
+ 
+ 
+}
